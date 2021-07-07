@@ -26,4 +26,5 @@ By the end of this workshop series, participants will be able to:
 
 Proceed to the [keynote](keynote) to get started.
 
-***Caroline Sinders is a machine learning design researcher and artist. She is the founder of Convocation Design + Research, a design and research agency focusing on the intersections of machine learning, user research, designing for public good, and solving communication difficult problems. As a designer and researcher, she's worked with groups like Amnesty International, Intel, IBM Watson, the Wikimedia Foundation as well as others. She is also a research fellow with Harvard University's Kennedy School of Government and Policy.***
+___
+*Caroline Sinders is a machine learning design researcher and artist. She is the founder of Convocation Design + Research, a design and research agency focusing on the intersections of machine learning, user research, designing for public good, and solving communication difficult problems. As a designer and researcher, she's worked with groups like Amnesty International, Intel, IBM Watson, the Wikimedia Foundation as well as others. She is also a research fellow with Harvard University's Kennedy School of Government and Policy.*
