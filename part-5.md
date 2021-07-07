@@ -9,6 +9,6 @@ nav_order: 7
 
 <iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/35e8f02b-3523-472e-bda0-4ef44158b0fb/public?autoplay=false&automute=false"></iframe>
 
-Click [here](https://github.com/scds/building-feminist-data/raw/main/assets/docs/Sinders_Workshop_Video_5.docx) to download the guide.
+Click [here](https://github.com/scds/building-feminist-data/blob/main/assets/data/Sinders_Workshop_Video_5.docx?raw=true) to download the guide.
 
 *Once finished, please continue on to [the next part](part-6).*
