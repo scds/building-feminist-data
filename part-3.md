@@ -20,4 +20,4 @@ By the end of this video, participants will be able to...
 3. What does collaboration and accountability look like when working with communities to gather data? What are potential ways to make data collection and usage legible to everyone involved? 
 4. What is ‘slow data?’ What are the benefits of slow data?  
 
-*Once finished, please continue on to [the next part](part-7).*
+*Once finished, please continue on to [the next part](part-4).*

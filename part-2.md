@@ -20,4 +20,4 @@ By the end of this video, participants will be able to...
 4. How does Feminist Data Set seek to expand the idea of data into a more political and community-based space of preservation and archiving?  
 5. What inspired Feminist Data Set? What principles underscore the project? 
 
-*Once finished, please continue on to [the next part](part-6).*
+*Once finished, please continue on to [the next part](part-3).*
