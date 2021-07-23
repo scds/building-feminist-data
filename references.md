@@ -146,7 +146,7 @@ D’Ignazio, Catherine, and Lauren F. Klein. (2020) “Seven Intersectional Femi
 
 ## [Video 7: How to Create Feminist Data](https://scds.github.io/building-feminist-data/part-4.html)
 
-Recommended  
+### Recommended  
 
 Crenshaw, Kimberlé. (2016). The Urgency of Intersectionality. TED Talks. <https://www.ted.com/talks/kimberle_crenshaw_the_urgency_of_intersectionality?language=en>  
 
