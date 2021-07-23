@@ -13,4 +13,4 @@ Click [here](https://github.com/scds/building-feminist-data/blob/main/assets/dat
 
 Click [here](https://github.com/scds/building-feminist-data/blob/main/assets/data/Sinders_Workshop_Learning_outcomes.docx?raw=true) to download the learning outcomes guide.
 
-*Once finished, please continue on to [the next part](part-1) to learn about how computers understand language.*
+*Once finished, please continue on to [background](part-1) to learn about how computers understand language.*
