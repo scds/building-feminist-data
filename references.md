@@ -18,7 +18,7 @@ Online: <https://pioneerworks.org/broadcast/caroline-sinders-in-defense-of-usefu
 
  
 
-## Researched Based Artistic Activist Projects 
+### Researched Based Artistic Activist Projects 
 
 “The works aren’t just to bear witness, though that alone would be worthwhile; they question, provocate and offer a solution to a problem. This should not be viewed as a form of techno-solutionism, however, the ‘solutions’ the artists provide are not meant to create an end to all other potential solutions, but serve to offer rather, temporary or open-source fixes for gaps in equity Caroline Sinders introduces the methodology she created to guide both her art and research practice: research driven art. Inspired by photojournalism, critical design, and open-source software, this methodology is both a process and an approach to knowledge mobilization and violence created by society and are poetic witnesses of those gaps” (Sinders 2020) 
 
