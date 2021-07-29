@@ -117,10 +117,11 @@ Crenshaw, Kimberlé. (1989). Demarginalizing the Intersection of Race and Sex: A
 
 ### Recommended  
 
-D’Ignazio., Catherine and Klein, Lauren. (2020). _Feminist Data_. MIT Press.  
-
 Constanza-Chalk, Sasha. (2020). _Design Justice_. MIT Press.  
 
+D’Ignazio., Catherine and Klein, Lauren. (2020). _Feminist Data_. MIT Press.  
+
+Puar, Jasbir. (2012). “I would rather be a cyborg than a goddess”: Becoming-Intersectional in Assemblage Theory. _philoSOPHIA 2_(1), 49-66. 
  
 
 ## [Video 6: Feminist Data Collection](https://scds.github.io/building-feminist-data/part-3.html)
