@@ -57,7 +57,6 @@ By the end of this video, participants will be able to...
 ### Learning Outcomes
 By the end of this video, participants will be able to... 
 1. Explain the role of bias in the creation of AI systems
-2. Explain the role of bias in the creation of AI systems
 
 ### Discussion Prompts
 1. What is rendered invisible when data, code and software are perceived to be neutral or objective? 
@@ -66,6 +65,6 @@ By the end of this video, participants will be able to...
 
 ### Examples to Consider
 1. Facebook’s chatbot, Blender, was training on Reddit data. The bot learned abusive language and was vulgar and offensive (Hunt 2016).
-2. Microsoft’s AI chatbot, Tay, was trained on conversations from Twitter. It was pulled from the market after 24 hours for tweeting racist comments. (BBC 2020).
+2. Microsoft’s AI chatbot, Tay, was trained on conversations from Twitter. It was pulled from the market after 24 hours for tweeting racist comments (BBC 2020).
 
 *Once finished, please continue on to [the next part](part-2).*
