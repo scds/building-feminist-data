@@ -10,10 +10,9 @@ nav_order: 8
 
 ### Recommended 
 
-Sinders, Caroline. (2018 August 16). How to make research-driven art. The Creative Independent. Online: 	<https://thecreativeindependent.com/essays/how-to-make-research-driven-art/>  
+Sinders, Caroline. (2018 August 16). How to make research-driven art. _The Creative Independent_. Online: 	<https://thecreativeindependent.com/essays/how-to-make-research-driven-art/>  
 
-Sinders, Caroline. (2020 July 29). How art allows for confrontation, exploration, and systematic problem 	solving. Broadcast.  
-
+Sinders, Caroline. (2020 July 29). How art allows for confrontation, exploration, and systematic problem solving. _Broadcast_.  
 Online: <https://pioneerworks.org/broadcast/caroline-sinders-in-defense-of-useful-art/> 
 
  
@@ -66,35 +65,35 @@ Heather Dewey-Hagborg. (2020). Probably Chelsea. <https://deweyhagborg.com/proje
 
 ## [Video 3: Data + AI](https://scds.github.io/building-feminist-data/part-1.html#data--ai)
 
-Agüera y Arcas, Blaise., Mitchell, Margaret., and Todorov, Alexander. (2017 May 6). Physiognomy’s New Clothes. Medium. <https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a>  
+Agüera y Arcas, Blaise., Mitchell, Margaret., and Todorov, Alexander. (2017 May 6). Physiognomy’s New Clothes. _Medium_. <https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a>  
 
-Alexander, Leigh. Do Google’s ‘unprofessional hair’ results show it is racist? The Guardian. Online: <https://www.theguardian.com/technology/2016/apr/08/does-google-unprofessional-hair-results-prove-algorithms-racist>  
+Alexander, Leigh. Do Google’s ‘unprofessional hair’ results show it is racist? _The Guardian_. Online: <https://www.theguardian.com/technology/2016/apr/08/does-google-unprofessional-hair-results-prove-algorithms-racist>  
 
-Buolamwini, Joy., and Gebru, Timni. (2018). Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification. PMLR 81 (77): 77-91. <http://proceedings.mlr.press/v81/buolamwini18a.html>  
+Buolamwini, Joy., and Gebru, Timni. (2018). Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification._ PMLR 81_ (77): 77-91. <http://proceedings.mlr.press/v81/buolamwini18a.html>  
 
-Ekman, Paul., and Friesen, Wallace. (1978). Facial Action Coding System: A Technique for the Measurement of Facial Movement. Palo Alto: Consulting Psychologists Press.  
+Ekman, Paul., and Friesen, Wallace. (1978). _Facial Action Coding System: A Technique for the Measurement of Facial Movement_. Palo Alto: Consulting Psychologists Press.  
 
-Ekman Paul, Friesen Wallace V, and Hager Joseph C. (2002). Facial Action Coding System: The Manual on CD ROM. Salt Lake City: A Human Face.  
+Ekman Paul, Friesen Wallace V, and Hager Joseph C. (2002). _Facial Action Coding System: The Manual on CD ROM_. Salt Lake City: A Human Face.  
 
 Faception. <https://www.faception.com/>  
 
-Hjortsjol, Carl-Herman. (1969). Man’s Face and Mimic Language. Lund: Studen Litteratur. 
+Hjortsjol, Carl-Herman. (1969). _Man’s Face and Mimic Language_. Lund: Studen Litteratur. 
 
 ### Recommended  
 
 Lakhani, Karim. (2020 September 25). AI in Enterprise Podcast: Episode 4 – Latayna Sweeney. Laboratory for Innovation Science. Harvard University. <https://innovationscienceguide.org/resources/ai-in-enterprise-podcast-episode-4-latayna-sweeney-harvard>  
 
-Kantayya, Shalini (Director). (2020). Coded Bias [film]. 7th Empire Media. 
+Kantayya, Shalini (Director). (2020). _Coded Bias_ [film]. 7th Empire Media. 
 
-Robertson, Kate., Khoo, Cynthia., Song, Yolanda.  (2020). To Surveil and Predict: A Human Rights Analysis of Algorithmic Policing in Canada. Citizen Lab and Human Rights Program, University of Toronto. <https://citizenlab.ca/wp-content/uploads/2020/09/To-Surveil-and-Predict.pdf> 
+Robertson, Kate., Khoo, Cynthia., Song, Yolanda.  (2020). _To Surveil and Predict: A Human Rights Analysis of Algorithmic Policing in Canada_. Citizen Lab and Human Rights Program, University of Toronto. <https://citizenlab.ca/wp-content/uploads/2020/09/To-Surveil-and-Predict.pdf> 
 
  
 
 ## [Video 4: Language in Data Systems](https://scds.github.io/building-feminist-data/part-1.html#language-in-data-systems)
 
-BBC. (2020 May 4). Facebook uses 1.5bn Reddit posts to create chatbot. BBC News. <https://www.bbc.com/news/technology-52532930>  
+BBC. (2020 May 4). Facebook uses 1.5bn Reddit posts to create chatbot. _BBC News_. <https://www.bbc.com/news/technology-52532930>  
 
-Hunt, Elle. (2016 March 24). Tay, Microsoft’s AI chatbot, gets a crash course in racism from Twitter. The Guardian. <https://www.theguardian.com/technology/2016/mar/24/tay-microsofts-ai-chatbot-gets-a-crash-course-in-racism-from-twitter>  
+Hunt, Elle. (2016 March 24). Tay, Microsoft’s AI chatbot, gets a crash course in racism from Twitter. _The Guardian_. <https://www.theguardian.com/technology/2016/mar/24/tay-microsofts-ai-chatbot-gets-a-crash-course-in-racism-from-twitter>  
 
 ### Recommended  
 
@@ -118,9 +117,9 @@ Crenshaw, Kimberlé. (1989). Demarginalizing the Intersection of Race and Sex: A
 
 ### Recommended  
 
-D’Ignazio., Catherine and Klein, Lauren. (2020). Feminist Data. MIT Press.  
+D’Ignazio., Catherine and Klein, Lauren. (2020). _Feminist Data_. MIT Press.  
 
-Constanza-Chalk, Sasha. (2020). Design Justice. MIT Press.  
+Constanza-Chalk, Sasha. (2020). _Design Justice_. MIT Press.  
 
  
 
@@ -128,17 +127,17 @@ Constanza-Chalk, Sasha. (2020). Design Justice. MIT Press.
 
 MegaPixels - <https://ahprojects.com/megapixels/>  
 
-Solon, Olivia. (2019 March 12). Facial recognitions’s ‘dirty little secret’: Millions of online photos scraped without consent. NBC News. <https://www.nbcnews.com/tech/internet/facial-recognition-s-dirty-little-secret-millions-online-photos-scraped-n981921>  
+Solon, Olivia. (2019 March 12). Facial recognitions’s ‘dirty little secret’: Millions of online photos scraped without consent. _NBC News_. <https://www.nbcnews.com/tech/internet/facial-recognition-s-dirty-little-secret-millions-online-photos-scraped-n981921>  
 
-Vincent, James. (2017 22 August). Transgender YouTuber’s had their videos grabbed to train facial recognition software. The Verge. <https://www.theverge.com/2017/8/22/16180080/transgender-youtubers-ai-facial-recognition-dataset>  
+Vincent, James. (2017 22 August). Transgender YouTuber’s had their videos grabbed to train facial recognition software. _The Verge_. <https://www.theverge.com/2017/8/22/16180080/transgender-youtubers-ai-facial-recognition-dataset>  
 
-Cohen, Cathy. (2004). Deviance as Resistance: A New Research Agenda for the Study of Black Politics. Du Bois Review: Social Science Research on Race, 1(1), 27-45.  
+Cohen, Cathy. (2004). Deviance as Resistance: A New Research Agenda for the Study of Black Politics. _Du Bois Review: Social Science Research on Race, 1_(1), 27-45.  
 
 Research Data Alliance International Indigenous Data Sovereignty Interest Group. (September 2019). “CARE Principles for Indigenous Data Governance.” The Global Indigenous Data Alliance. <https://static1.squarespace.com/static/5d3799de845604000199cd24/t/5da9f4479ecab221ce848fb2/1571419335217/CARE+Principles_One+Pagers+FINAL_Oct_17_2019.pdf>  
 
 ### Recommended 
 
-D’Ignazio, Catherine, and Lauren F. Klein. (2020) “Seven Intersectional Feminist Principles for Equitable and Actionable COVID-19 Data.” Big Data & Society. doi:10.1177/2053951720942544   
+D’Ignazio, Catherine, and Lauren F. Klein. (2020) “Seven Intersectional Feminist Principles for Equitable and Actionable COVID-19 Data.” _Big Data & Society_. doi:10.1177/2053951720942544   
 
  
 
@@ -148,6 +147,6 @@ D’Ignazio, Catherine, and Lauren F. Klein. (2020) “Seven Intersectional Femi
 
 ### Recommended  
 
-Crenshaw, Kimberlé. (2016). The Urgency of Intersectionality. TED Talks. <https://www.ted.com/talks/kimberle_crenshaw_the_urgency_of_intersectionality?language=en>  
+Crenshaw, Kimberlé. (2016). The Urgency of Intersectionality. _TED Talks_. <https://www.ted.com/talks/kimberle_crenshaw_the_urgency_of_intersectionality?language=en>  
 
-Thwaites, Thomas. (2010). How I Bult a Toaster - From Scratch. TED Talks. <https://www.ted.com/talks/thomas_thwaites_how_i_built_a_toaster_from_scratch?language=en#t-7296>  
+Thwaites, Thomas. (2010). How I Bult a Toaster - From Scratch. _TED Talks_. <https://www.ted.com/talks/thomas_thwaites_how_i_built_a_toaster_from_scratch?language=en#t-7296>  
