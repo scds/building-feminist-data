@@ -120,8 +120,6 @@ Crenshaw, Kimberlé. (1989). Demarginalizing the Intersection of Race and Sex: A
 Constanza-Chalk, Sasha. (2020). _Design Justice_. MIT Press.  
 
 D’Ignazio., Catherine and Klein, Lauren. (2020). _Feminist Data_. MIT Press.  
-
-Puar, Jasbir. (2012). “I would rather be a cyborg than a goddess”: Becoming-Intersectional in Assemblage Theory. _philoSOPHIA 2_(1), 49-66. 
  
 
 ## [Video 6: Feminist Data Collection](https://scds.github.io/building-feminist-data/part-3.html)
@@ -149,5 +147,7 @@ D’Ignazio, Catherine, and Lauren F. Klein. (2020) “Seven Intersectional Femi
 ### Recommended  
 
 Crenshaw, Kimberlé. (2016). The Urgency of Intersectionality. _TED Talks_. <https://www.ted.com/talks/kimberle_crenshaw_the_urgency_of_intersectionality?language=en>  
+
+Puar, Jasbir. (2012). “I would rather be a cyborg than a goddess”: Becoming-Intersectional in Assemblage Theory. _philoSOPHIA 2_(1), 49-66. 
 
 Thwaites, Thomas. (2010). How I Bult a Toaster - From Scratch. _TED Talks_. <https://www.ted.com/talks/thomas_thwaites_how_i_built_a_toaster_from_scratch?language=en#t-7296>  
