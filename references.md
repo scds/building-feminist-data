@@ -113,7 +113,7 @@ Xenofeminism - <http://laboriacuboniks.net/>
 
 Feminist Principles of the Internet - <https://www.apc.org/en/pubs/feminist-principles-internet-version-20> 
 
-Crenshaw, Kimberlé. (1989). Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics. University of Chicago Legal Forum. <https://chicagounbound.uchicago.edu/uclf/vol1989/iss1/8>   
+Crenshaw, Kimberlé. (1989). Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics. _University of Chicago Legal Forum_. <https://chicagounbound.uchicago.edu/uclf/vol1989/iss1/8>   
 
 ### Recommended  
 
