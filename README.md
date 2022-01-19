@@ -1,7 +1,7 @@
 # Creative Research and Building Feminist Data
 Materials for the Relevant Research workshop: **Creative Research and Building Feminist Data**  
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/building-feminist-data/) with GitHub Pages   
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/building-feminist-data/) with GitHub Pages.
 
 
 Contributions by the following individuals: 
