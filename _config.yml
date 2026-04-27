@@ -1,6 +1,12 @@
 title: Building Feminist Data
 subtitle: 'Relevant Research Series'
 
+aux_links:
+  "SCDS Workshops": 
+    - "https://scds.ca/searchable-online-learning/"
+
+navigation: true
+
 remote_theme: scds/just-the-docs
 github_repo_url: "https://scds.github.io/building-feminist-data/" # ***Enter workshop URL (in github pages) here
 color_scheme: mcmaster
