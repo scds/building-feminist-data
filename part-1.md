@@ -68,3 +68,5 @@ By the end of this video, participants will be able to...
 2. Microsoft’s AI chatbot, Tay, was trained on conversations from Twitter. It was pulled from the market after 24 hours for tweeting racist comments (BBC 2020).
 
 *Once finished, please continue on to [the next part](part-2).*
+
+
