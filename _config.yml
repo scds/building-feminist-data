@@ -1,10 +1,11 @@
 title: Building Feminist Data
 subtitle: 'Relevant Research Series'
 
-subtitle: <p>Presented by <a href="https://scds.ca\">SCDS</a> and <a href="https://spark.mcmaster.ca/">Spark</a></p>
-nav_footer_logo_bottom: "/assets/img/logo.png"
-nav_footer_logo_bottom_href: "https://scds.ca/events/relevant-research/"
-
+subtitle: 'Presented by <a href="https://scds.ca">SCDS</a> and <a href="https://spark.mcmaster.ca/">Spark</a>'
+nav_footer_logo_bottom: "https://raw.githubusercontent.com/scds/jtd-mcmaster/main/assets/images/scds-logo.png"
+nav_footer_logo_bottom_href: "https://scds.ca/"
+nav_footer_logo_top: "/assets/img/logo.png"
+nav_footer_logo_top_href: "https://scds.ca/events/relevant-research/"
 
 aux_links:
   "SCDS Workshops": 
